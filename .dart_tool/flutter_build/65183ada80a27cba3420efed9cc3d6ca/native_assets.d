@@ -1,0 +1,1 @@
+ /Users/kutman/StudioProjects/counter_provider/.dart_tool/flutter_build/65183ada80a27cba3420efed9cc3d6ca/native_assets.yaml: 

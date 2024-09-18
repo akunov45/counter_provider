@@ -1,0 +1,1 @@
+ /Users/kutman/Desktop/my_folder/counter_provider/.dart_tool/flutter_build/45ad1047e50d074e886a2d3dd9c4725d/native_assets.yaml: 
